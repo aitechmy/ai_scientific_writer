@@ -1,0 +1,8 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+pip-log.txt
+env/
+ENV/
+node_modules/
